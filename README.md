@@ -1,5 +1,14 @@
-MozRepl [![Build Status](https://travis-ci.org/bard/mozrepl.png)](https://travis-ci.org/bard/mozrepl)
+MozRepl 
 ============
+
+## Use in Zotero
+
+1. Build
+2. Install
+3. Preferences -> Advanced -> General -> Config Editor
+	- set `extensions.mozrepl.autoStart` to `true`
+	- set `extensions.mozrepl.port` to port you want (default 4242)
+4. `telnet 127.0.0.1 [port]`
 
 ## Important Notice
 

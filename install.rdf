@@ -7,6 +7,15 @@
     <em:id>mozrepl@hyperstruct.net</em:id>
     <em:version>1.2.0</em:version>
     <em:type>2</em:type>
+    
+    <!-- zotero -->
+    <em:targetApplication>
+      <Description>
+        <em:id>zotero@chnm.gmu.edu</em:id>
+        <em:minVersion>3.0b1</em:minVersion>
+        <em:maxVersion>5.0.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
 
     <!-- firefox -->
     <em:targetApplication>
